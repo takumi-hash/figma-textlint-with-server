@@ -119,3 +119,6 @@ dist
 
 # JetBrains
 .idea
+
+# Others
+custom.yml

@@ -14,7 +14,8 @@
     "prefer-tari-tari": true,
     "prh": {
       "rulePaths": [
-        "./prh-rules/techbooster.yml"
+        "./prh-rules/techbooster.yml",
+        "./prh-rules/custom.yml"
       ]
     }
   }
